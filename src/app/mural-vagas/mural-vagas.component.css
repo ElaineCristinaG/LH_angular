@@ -1,0 +1,8 @@
+.muralVagas{
+    display: flex;
+    flex-direction: row;
+}
+.muralVagas .card{
+    margin:5px 10px;
+    min-height: 500px;
+}

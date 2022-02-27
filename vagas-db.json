@@ -1,0 +1,46 @@
+{
+  "Vagas": [
+    {
+      "id": 1000,
+      "nome": "Desenvolvedor FrontEnd",
+      "foto": "foto1.png",
+      "descricao": "desenvolver aplicacoes com Angular",
+      "salario": 5000
+    },
+    {
+      "id": 1001,
+      "nome": "Desenvolvedor BackEnd",
+      "foto": "foto2.png",
+      "descricao": "desenvolver com linguagem Java",
+      "salario": 6000
+    },
+    {
+      "id": 1003,
+      "nome": "Desenvolvedor FullStack",
+      "foto": "foto3.png",
+      "descricao": "desenvolver paginas Web",
+      "salario": 10000
+    },
+    {
+      "id": "56",
+      "nome": "Devop's",
+      "foto": "foto3.png",
+      "descricao": "automação",
+      "salario": "5800"
+    },
+    {
+      "id": "1007",
+      "nome": "Desenvolvedor Python",
+      "foto": "foto1.png",
+      "descricao": "Big Data",
+      "salario": "8600"
+    },
+    {
+      "id": "KOtQmDb",
+      "nome": "",
+      "foto": "",
+      "descricao": "",
+      "salario": 0
+    }
+  ]
+}

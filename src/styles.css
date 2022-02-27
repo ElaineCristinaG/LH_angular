@@ -1,0 +1,55 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    
+    background-color: rgb(228, 242, 247);
+    
+}
+
+
+.menu {
+    display: flex;
+    align-items: center;
+    padding: 20px 60px;
+    background-color: #1793a3;
+}
+.menuConteudo{
+    color: rgb(226, 244, 245)!important;
+}
+
+.botoesPainel{
+    display: flex;
+    justify-content:space-around;
+}
+
+.conteudoPainel{
+    background-color: rgb(155, 189, 189);
+    width: 60%;
+    padding:2%;
+    margin-inline: 20%;
+    margin-top: 2%; 
+    border-radius: 10px;   
+}
+.botoesPainel{
+    width: 60%;
+    margin-inline: 20%;
+    margin-top: 2%; 
+}
+
+.h2Painel{
+    color: #1793a3;
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+.spanPainel{
+    background-color:white;
+    color: #1793a3;
+}
+.rodaPe{
+    background-color: rgb(41, 39, 39);
+    color: #5bf5e0;
+    display: flex;
+    justify-content: center;
+
+}
+
